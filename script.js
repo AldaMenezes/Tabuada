@@ -14,7 +14,7 @@ calcular.addEventListener("click", () => {
     }else{
 
     
-        for(i = ; i <= 10; i++){
+        for(i = 1; i <= 10; i++){
 
             var calc = String(i) + " x " + valor.value + " = " + i * Number(valor.value);
 
